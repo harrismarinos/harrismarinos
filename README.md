@@ -1,8 +1,8 @@
 # Harris Marinos
 
 MSc student in Data Science & Information Technologies (Big Data & AI) at the
-National and Kapodistrian University of Athens, with a BSc in Informatics &
-Computer Engineering from the University of West Attica.
+National and Kapodistrian University of Athens, holding a 5-year Integrated Master's
+(Diploma) in Informatics & Computer Engineering from the University of West Attica.
 
 Interested in applied machine learning and computer vision for real-world problems,
 especially Earth observation and the environment.
@@ -15,7 +15,7 @@ especially Earth observation and the environment.
 **Tools:** Git, Linux, Docker, Jupyter, Kaggle, Google Colab
 
 ## Background
-- BSc thesis: stock trading simulation web app with sentiment analysis
+- Diploma thesis: stock trading simulation web app with sentiment analysis
   (Next.js, Express, Supabase, FastAPI)
 
 ## Contact
