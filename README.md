@@ -1,18 +1,22 @@
 # Harris Marinos
 
-Informatics & Computer Engineering student (graduating 2026)
-based in Greece, moving toward Platform/Cloud Engineering.
+MSc student in Data Science & Information Technologies (Big Data & AI) at the
+National and Kapodistrian University of Athens, with a BSc in Informatics &
+Computer Engineering from the University of West Attica.
 
-## Currently
-- Building a stock tracker web app with sentiment analysis (Next.js, Express, Supabase, FastAPI)
-- Developing an internal inventory management system (ASP.NET Core, MySQL, IIS)
-- Learning Docker and cloud deployment
+Interested in applied machine learning and computer vision for real-world problems,
+especially Earth observation and the environment.
 
 ## Stack
-**Backend:** Node.js, Express, Python, FastAPI, C# (ASP.NET Core)  
-**Frontend:** Next.js, React, HTML/CSS/JS  
-**Database:** PostgreSQL (Supabase), MySQL  
-**Infra (learning):** Docker, Linux, IIS, nginx
+**ML:** Python, PyTorch, NumPy, pandas, scikit-learn, Matplotlib  
+**Backend:** Node.js, Express, FastAPI, C# (ASP.NET Core)  
+**Frontend:** Next.js, React  
+**Data:** PostgreSQL (Supabase), MySQL  
+**Tools:** Git, Linux, Docker, Jupyter, Kaggle, Google Colab
+
+## Background
+- BSc thesis: stock trading simulation web app with sentiment analysis
+  (Next.js, Express, Supabase, FastAPI)
 
 ## Contact
 harris.marinos@outlook.com
